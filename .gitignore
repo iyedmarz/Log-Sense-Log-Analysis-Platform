@@ -1,0 +1,5 @@
+logsense-backend/config.py
+logsense-backend/venv/
+logsense-backend/access.log
+node_modules/
+.next/
